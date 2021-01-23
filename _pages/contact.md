@@ -1,14 +1,13 @@
 ---
 permalink: /
-title: "Shankar Ammai"
+title: "Laxman Sapkota"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-I’m Shankar, a graduate student in Computer Science from [Birmingham City University](https://www.bcu.ac.uk). I’m am currently doing my PhD. My research topic is new privacy-oriented digtial
-identity approaches.
+I’m Laxman, a graduate student in Bsc Computer Networking and Security from [Birmingham City University](https://www.bcu.ac.uk). I’m am currently doing my Msc in Advance Computer Science.
 
 
  
