@@ -11,23 +11,23 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Digital Identity, Birmingham City University, 2020- Present
-* B.S.C in , Computer Science,Birmingham City University, 2017-2020
-	* First Class
-* DIPLOMA DE ENSINO SECUNDÁRIO,ESCOLA SECUNDÁRIA MARQUÊS DE POMBAL ,September 2015 - July 2016
-	* 18/20
+* Msc in Advance Computer Science, Birmingham City University, 2020- Present
+* B.S.C in , Computer Networking and Security,Birmingham City University, 2017-2020
+	* 2.1
+* level 3 Extended DIPLOMA IT,September 2015 - July 2017
+	* DDM
 
 
 Work experience
 ======
-* June 2020 - Present: Development Co-ordinator 
-  * Open Consent
+*  
+  * 
 
-* March 2020 - Present: Software Developer 
-  * Curzon Software House
+*  
+  * 
   
-* July 2019 - August 2019: Software Developer 
-  * Birmingham City University
+* 
+  * 
   
 
 Publications
